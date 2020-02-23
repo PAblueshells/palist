@@ -1,2 +1,3 @@
 config.sh
+.ipynb_checkpoints*
 .cache*
