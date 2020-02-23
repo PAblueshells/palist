@@ -22,4 +22,5 @@ We Dockerize our app once it is further along ([a simple guide](https://runnable
 ## Backend/Data Analysis Tasks
 - [x] Make Dockerfile (for 2/23)
 - [x] Set up test auth workflow (for 2/23)
-- [ ] Explore features (for 3/1)
+- [ ] Explore audio features (for 3/1)
+    - [ ] Look at how to combine features for groups of tracks (while capturing variation of taste)
