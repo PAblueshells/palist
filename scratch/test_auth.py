@@ -16,7 +16,6 @@ if verbose:
 token = util.prompt_for_user_token(username, scope)
 
 
-
 if token:
     sp = spotipy.Spotify(auth=token)
 
@@ -46,6 +45,7 @@ if token:
     feature_df = pd.DataFrame(audio_feats)
     print(feature_df.head())
 
+    feature_df.to_csv('test_features.csv', sep=',', index=False)
 
 else:
     print("Can't get token for", username)

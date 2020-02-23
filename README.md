@@ -11,7 +11,8 @@ During testing, back end can prompt user login with Spotipy as done in `scratch/
 In `palist/docker`, run the following commands to access bash in a docker image with all Python dependencies in `requirements.txt` installed and with this repo mounted at `usr/src/app` :
 ```
 docker build -t palist-app . 
-docker run -it  -p 80:80 -v [PATH TO GIT REPO]:/usr/src/app palist-app /bin/bash
+docker run -it -p 8888:8888 -v [PATH/palist]:/usr/src/app palist-app /bin/bash
+jupyter notebook --ip 0.0.0.0 --no-browser --allow-root # (to run jupyter)
 ```
 We Dockerize our app once it is further along ([a simple guide](https://runnable.com/docker/python/dockerize-your-python-application)).
 
