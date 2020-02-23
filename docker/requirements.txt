@@ -2,4 +2,5 @@ jupyter
 matplotlib
 pandas
 seaborn
+scikit-learn
 spotipy
