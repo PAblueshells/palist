@@ -8,7 +8,7 @@
 During testing, back end can prompt user login with Spotipy as done in `scratch/test_auth.py`
 
 ## Get started with Docker for development
-In `./docker`, run the following commands to access bash in a docker image with all Python dependencies in `requirements.txt` installed and with this repo mounted at `usr/src/app` :
+In `palist/docker`, run the following commands to access bash in a docker image with all Python dependencies in `requirements.txt` installed and with this repo mounted at `usr/src/app` :
 ```
 docker build -t palist-app . 
 docker run -it  -p 80:80 -v [PATH TO GIT REPO]:/usr/src/app palist-app /bin/bash
