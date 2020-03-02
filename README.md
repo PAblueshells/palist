@@ -24,3 +24,4 @@ We Dockerize our app once it is further along ([a simple guide](https://runnable
 - [x] Set up test auth workflow (for 2/23)
 - [ ] Explore audio features (for 3/1)
     - [ ] Look at how to combine features for groups of tracks (while capturing variation of taste)
+        - [ ] Similarity scores (like R^2) based on how well users correlate in the histogram of each of their audio feature --> NMDS plot
