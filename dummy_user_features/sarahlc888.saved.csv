@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+juno roome,american boy,american boy,5N7ktSDlZ18RfGdnAfZo26,0.653,0.4,9,-9.691,1,0.0361,0.000109,0.114,0.363,96.001,228000,4
+The Lunar Year,Herodias,Porcelain,1gEeuTTDXyEHd95rFm4Pop,0.229,0.155,6,-13.306,1,0.0345,2.11e-06,0.109,0.113,86.016,206708,4
+Tom Rosenthal,Z-Sides,Lights Are On,4IhTXiZLKATmwhMZIb1GQN,0.44,0.04,3,-16.887,1,0.0322,0.465,0.111,0.249,135.965,193749,4
+Massimo Natali [IT],Nobody's Home,Metronome,5uGY5VV9lZonCaRKm1wwmO,0.396,0.00408,6,-34.489,0,0.0542,0.962,0.109,0.108,65.174,178867,3
+Jealous of the Birds,Wisdom Teeth,Kosiskelu,3c6zfoj0h4cfNd9IkEtlid,0.542,0.622,4,-5.99,0,0.0385,8.86e-06,0.0939,0.286,143.984,207933,4
+Roman Lewis,Mindless Town,Mindless Town,0pQZ8JROGkVX0sPqSyb7MI,0.35,0.192,2,-8.782,1,0.0324,0.00577,0.103,0.14,75.874,316492,4
+Sivu,Sweet Sweet Silent (Deluxe Version),Trickle,7IymjBjEmFGu3koYP7hVML,0.47,0.125,7,-18.941,0,0.0431,0.00137,0.145,0.117,71.328,250027,4
+Jealous of the Birds,Parma Violets,Tonight I Feel Like Kafka,6ojZsSfUuRUC4VxtWLUAdi,0.708,0.298,10,-13.671,0,0.0318,7.05e-06,0.17,0.351,116.048,189107,4
+Tora,Can't Buy the Mood,Similar,2HMAB8zla6LG6bpjycfsCT,0.41,0.372,1,-8.938,1,0.0487,3.55e-05,0.114,0.2,147.932,168376,4
+Daniel Caesar,CASE STUDY 01,SUPERPOSITION,45PxuJqJBnPXZKLxoo9Apj,0.589,0.279,4,-11.209,1,0.0408,0.000128,0.087,0.333,115.656,263795,4
+Ryuichi Sakamoto,1996,Merry Christmas Mr. Lawrence,17oLsEzzlGFlrBKViCzmGc,0.479,0.174,10,-18.021,0,0.0371,0.841,0.115,0.296,103.577,286667,4
+Jelani Aryeh,Lavender Love,Lavender Love,2n756VAMiFnX4hW2VYw7Yv,0.768,0.217,4,-13.067,1,0.0626,0.000695,0.117,0.195,77.002,155755,4
+The Paper Kites,Young North - EP,Paint,2BOof6lYrGfz6BojJ0aeJd,0.364,0.308,4,-13.052,1,0.0402,0.00227,0.123,0.389,73.331,191773,4
+Dianna Lopez,Blu,Blu,5JvIxG1pIC7lzYFHl2AvwO,0.409,0.319,4,-13.023,1,0.0376,0.00403,0.0869,0.138,115.413,269753,4
+PHILDEL,Earth Alone,Earth Alone,18qWG3ejGGRk9Cq4BIJPGc,0.415,0.000801,0,-24.654,1,0.06,0.949,0.072,0.344,76.3,177600,1
+Anne-Sophie Mutter,Anne-Sophie Mutter - Tango Song and Dance,Tango Song and Dance (dedicated to Anne-Sophie Mutter): 3. Dance. Jazz feeling,36hVrGBjkBLQdCpRbmweV6,0.437,0.298,7,-16.721,1,0.05,0.54,0.204,0.228,74.643,322480,4
+The Velvet Underground,The Velvet Underground (45th Anniversary),Pale Blue Eyes,11VwZwNF29HrqwalYUMitb,0.637,0.107,5,-18.759,1,0.0349,0.00146,0.103,0.296,82.879,339533,4
+"Tyler, The Creator",IGOR,EARFQUAKE,5hVghJ4KaYES3BFUATCYn0,0.554,0.498,9,-8.866,1,0.0685,5.98e-06,0.795,0.413,79.635,190067,4
+BROCKHAMPTON,GINGER,NO HALO,694vvR5o19xHPhhJ5QdLN7,0.643,0.573,4,-7.034,1,0.0709,0.00017,0.0695,0.47,165.192,259747,4
+Lester Young,The President Plays With The Oscar Peterson Trio,Stardust,5gHPj9g3L9e2cu81LZUc5F,0.474,0.0494,10,-18.849,0,0.0912,0.749,0.106,0.226,62.287,212600,4
+Velvet Negroni,NEON BROWN,SCRATCHERS,46dgEGSZYa6edmSObP5yfd,0.647,0.517,8,-10.027,0,0.0724,1.22e-05,0.0919,0.277,111.966,329728,4
+Fog Lake,Virgo Indigo,Virgo Indigo,6y0ixMRGFrf8AXYazll7cg,0.295,0.33,9,-12.01,1,0.0319,0.854,0.114,0.0899,108.52,148533,4
+Caamp,Boys (Side B),Strawberries,0ESvfrHfNuAtkZp8SMJBOY,0.547,0.0897,3,-18.732,1,0.0457,0.00578,0.111,0.263,117.17,219344,5
+Hand Habits,placeholder,placeholder,6ABQcgTtAPCUyMkVwdRNJo,0.493,0.414,6,-9.372,0,0.0258,0.00134,0.0878,0.426,133.65,230007,4
+Q,Thoughts,You,4bhbTMVaEH1g1whkuTYTwf,0.555,0.203,5,-16.412,1,0.438,0.0,0.114,0.401,86.722,104542,4
+Sergei Rachmaninoff,Rachmaninov: Piano Concertos Nos. 1 & 2,"Piano Concerto No.2 In C Minor, Op.18: 1. Moderato",5yvj4dLlGRgS727KSO53tZ,0.298,0.104,0,-19.907,0,0.0414,0.892,0.0714,0.0398,109.564,706000,4
+Evgeny Kissin,Tchaikovsky: Piano Concerto No.1,"Piano Concerto No. 1 in B-Flat Minor, Op. 23, TH. 55: 2. Andantino semplice - Prestissimo - Tempo I - Live at Philharmonie, Berlin",1ZUgZYc8SuBkRLX7NZVrDH,0.2,0.0262,1,-32.407,1,0.0391,0.832,0.0639,0.0537,83.777,513307,3
+Mikhail Petukhov,"Mikhail Petukhov. Virtuoso Romantic: Liszt, Saint-Saens, Mendelssohn, Gounod, Rossini",Spanish Rhapsody for Piano and String Orchestra: S. 254,2wTFic3Az38c6KlE0HcOQl,0.361,0.36,9,-16.614,1,0.0388,0.628,0.0932,0.103,129.723,868493,4
+Arthur Rubinstein,50 Masterworks - Arthur Rubinstein,"Nocturnes, Op. 27: No. 2 in D-Flat Major",1nGDsTkP1npeWj4hJ9s9pw,0.394,0.00948,1,-27.572,1,0.045,0.914,0.112,0.0423,132.018,376440,4
+Paul Schoenfield,Schoenfield: Cafe Music,Cafe Music: III. Presto,4yN5rJ8J01YKPUeH8gp1da,0.348,0.314,0,-18.096,0,0.0329,0.874,0.0929,0.436,151.302,276000,4
+Georges Bizet,Bizet: Carmen,"Carmen (1997 - Remaster), Act II: Entr'acte",2foQndWsLGVK3EmfjZBMKA,0.164,0.0272,3,-31.926,1,0.0392,0.967,0.103,0.121,71.973,179640,4
+Chicago Symphony Orchestra,Tchaikovsky: Symphony No.5/Swan Lake Suite,"Swan Lake (Suite), Op.20a, TH 219: 4. Scene",2ClP0FBd68SH9y1fTapP86,0.286,0.0165,3,-33.039,0,0.0442,0.0457,0.0853,0.0435,119.626,416893,3
+Jean Sibelius,"Sibelius: Symphony No. 2 in D Major, Op. 43 & Symphony No. 7 in C Major, Op. 105","Symphony No. 2 in D Major, Op. 43: IV. Finale. Allegro moderato",3j7YAq4A8HPx6vLt0N06CN,0.137,0.273,2,-14.106,1,0.0328,0.932,0.248,0.118,84.138,874160,3
+Paul Schoenfield,Schoenfield: Cafe Music,Cafe Music: I. Allegro,60FGTQHbOvsJC5mZq90Ko8,0.376,0.223,3,-19.638,1,0.0348,0.833,0.254,0.281,109.655,350667,4
+Dmitri Shostakovich,Shostakovich: Jazz Suites Nos. 1 - 2 / The Bolt / Tahiti Trot,Jazz Suite No. 2: VI. Waltz 2,0pjCsB0XNSyqM9UazlTODC,0.322,0.184,0,-18.312,0,0.0338,0.902,0.0813,0.356,107.847,193600,4
+Anne-Sophie Mutter,Anne-Sophie Mutter - Tango Song and Dance,Porgy and Bess: It Ain't Necessarily So,6ru9eKLo3aSjwRS9t0GhAg,0.349,0.145,2,-19.408,0,0.0537,0.422,0.107,0.296,123.722,162280,4
+Wolfgang Amadeus Mozart,"Mozart: Piano Concertos No.20 in D minor, K.466 & No.27 in B flat, K.595","Piano Concerto No.27 in B flat, K.595: 2. Larghetto",2TDYhUsCuLEK0mkPZCYKPV,0.171,0.0115,3,-30.173,1,0.0436,0.848,0.0991,0.083,72.404,452707,4
+Various Artists,Fantasia 2000,Rhapsody In Blue,1s1RlSnTe70UVao58Nx7SN,0.323,0.121,8,-22.246,1,0.0425,0.795,0.0852,0.0938,150.979,755067,4
+Sergei Rachmaninoff,Rachmaninov: Piano Concerto No. 3 & Rhapsody On a Theme of Paganini,"Rhapsody On a Theme of Paganini, Op. 43: V. Variation XVIII",7EcjtjNYDhQ82yCQZU0Z9C,0.123,0.0386,1,-25.577,1,0.0374,0.939,0.0865,0.0573,174.824,163413,4
+André Navarra,Ravel: Spanish Rhapsody - Lalo: Cello Concerto - Enescu: Romanian Rhapsodies Nos. 1 & 2,"Rhapsodie espagnole in C Major, M. 54: IV. Feria",0FIcafEL05BaC9z1xYFvLY,0.163,0.317,5,-16.014,1,0.0626,0.878,0.124,0.128,71.28,399560,4
+Kirill Gerstein,The Gershwin Moment: Rhapsody in Blue & Piano Concerto in F Major (Live),Piano Concerto in F Major: III. Allegro agitato (Live),5lixcXV4cLdqVoUDbQKLdP,0.352,0.406,0,-15.411,0,0.0868,0.719,0.789,0.343,142.234,442533,4
+Kirill Gerstein,The Gershwin Moment: Rhapsody in Blue & Piano Concerto in F Major (Live),Piano Concerto in F Major: II. Adagio (Live),1VvoZCU0SoKrp3zYCg92cn,0.185,0.0329,6,-24.641,1,0.0412,0.874,0.13,0.0549,67.654,759400,4
+Gustav Holst,"Holst: The Planets, Op. 32","Holst: The Planets, Op. 32: IV. Jupiter, the Bringer of Jollity",7nqFpYqxbt8yiiJFVjBXwf,0.258,0.212,5,-15.901,1,0.0377,0.78,0.133,0.219,67.447,461000,4
+Frédéric Chopin,Chopin: Piano Works - The World of Chopin Vol. 1,Piano Concerto N. 2 in F Minor Op. 21: II. Larghetto,4YHtSHIFW7a2ADmAZs7qSM,0.238,0.076,8,-22.048,1,0.0356,0.942,0.0917,0.0553,95.288,533667,5
+Mstislav Rostropovich,Dvorák: Cello Concerto / Tchaikovsky: Variations on a Rococo Theme,"Cello Concerto In B Minor, Op.104, B. 191: 1. Allegro",4WhWxSgIGEs69HwSjGYM1q,0.231,0.133,2,-20.274,1,0.0437,0.659,0.135,0.0564,122.239,942000,4
+Mstislav Rostropovich,Dvorák: Cello Concerto / Tchaikovsky: Variations on a Rococo Theme,"Cello Concerto In B Minor, Op.104, B. 191: 3. Finale (Allegro moderato)",2IboMXnngOs4zMxpkVkDCx,0.138,0.0862,7,-21.026,1,0.0378,0.756,0.0709,0.0684,83.486,778000,4
+Itzhak Perlman,Debussy: Violin Sonata; Cello Sonata/Ravel: Piano Trio,"Piano Trio in A minor, M. 67: 1. Modéré",2PDJ2SkeP2ezm5tmHuHdl6,0.177,0.0972,0,-23.946,1,0.0427,0.394,0.0643,0.0712,81.672,564493,4
+Kirill Gerstein,The Gershwin Moment: Rhapsody in Blue & Piano Concerto in F Major (Live),Piano Concerto in F Major: I. Allegro (Live),3N7MKnqMxynvSnSYH3k6FG,0.328,0.23,5,-17.361,0,0.0395,0.89,0.155,0.112,94.227,811813,4
+Pyotr Ilyich Tchaikovsky,Tchaikovsky: Violin Concerto & Sérénade mélancolique,"Tchaikovsky: Violin Concerto in D Major, Op. 35: I. Allegro moderato",0V6V6fwKxTHDrsLLmgW432,0.314,0.172,2,-15.706,1,0.0405,0.342,0.119,0.16,94.694,1160280,4
+The Red Pill,The Story of the Chinese Farmer,The Story of the Chinese Farmer,5QTIGUgV4eFrg0o3k8lGTp,0.522,0.285,0,-15.946,1,0.556,0.325,0.13,0.222,116.895,131788,5
