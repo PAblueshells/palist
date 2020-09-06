@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Drake,Views,One Dance,1zi7xx7UVEFkmKfv06H8x0,0.792,0.625,1,-5.609,1,0.0536,0.0018,0.329,0.37,103.967,173987,4
+Major Lazer,Peace Is The Mission,Lean On (feat. MØ & DJ Snake),1qE47wUKG2juJwPoLqg4C9,0.723,0.809,7,-3.081,0,0.0625,0.00123,0.565,0.274,98.007,176561,4
+Post Malone,Hollywood's Bleeding,Sunflower - Spider-Man: Into the Spider-Verse,0RiRZpuVRbi7oqRdSMwhQY,0.755,0.522,2,-4.368,1,0.0575,0.0,0.0685,0.925,89.96,157560,4
+Gotye,Making Mirrors,Somebody That I Used To Know,1qDrWA6lyx8cLECdZE7TV7,0.865,0.521,0,-6.932,1,0.0371,0.000115,0.0989,0.748,129.059,244885,4
+Adele,21,Rolling in the Deep,1CkvWZme3pRgbzaxZnTl5X,0.729,0.756,8,-5.119,1,0.0294,0.0,0.0527,0.522,104.945,228293,4
+Macklemore & Ryan Lewis,The Heist,Can't Hold Us - feat. Ray Dalton,3bidbhpOYeV4knp8AIu8Xn,0.641,0.922,2,-4.457,1,0.0786,0.0,0.0862,0.847,146.078,258343,4
+Ariana Grande,"thank u, next",7 rings,6ocbgoVGwYJhOv1GgI9NsF,0.778,0.317,1,-10.732,0,0.334,0.0,0.0881,0.327,140.048,178627,4
+Avicii,True,Wake Me Up,4h8VwCb1MTGoLKueQ1WgbD,0.532,0.783,2,-5.697,1,0.0523,0.0012,0.161,0.643,124.08,247427,4
+Eminem,Recovery,Love The Way You Lie,15JINEqzVMv3SvJTAXAKED,0.749,0.925,10,-5.034,1,0.227,0.0,0.52,0.641,86.989,263373,4
+Billie Eilish,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",bad guy,2Fxmhks0bxGSBdJ92vM42m,0.701,0.425,7,-10.965,1,0.375,0.13,0.1,0.562,135.128,194088,4
+Clean Bandit,New Eyes,Rather Be (feat. Jess Glynne),0TVV2gFROJaB3kIZyCUvIY,0.799,0.586,11,-6.735,1,0.0377,2.03e-06,0.193,0.549,120.97,227833,4
+Carly Rae Jepsen,Kiss,Call Me Maybe,20I6sIOMTCkB6w7ryavxtO,0.783,0.58,7,-6.548,1,0.0408,2.28e-06,0.108,0.66,120.021,193400,4
+fun.,Some Nights,We Are Young (feat. Janelle Monáe),5rgy6ghBq1eRApCkeUdJXf,0.378,0.638,10,-5.576,1,0.075,7.66e-05,0.0849,0.735,184.086,250627,4
+Ed Sheeran,÷ (Deluxe),Shape of You,7qiZfU4dY1lWllzX7mPBI3,0.825,0.652,1,-3.183,0,0.0802,0.0,0.0931,0.931,95.977,233713,4
+The Chainsmokers,Closer,Closer,7BKLCZ1jbUBVqRi2FVlTVw,0.748,0.524,8,-5.599,1,0.0338,0.0,0.111,0.661,95.01,244960,4
+OMI,Me 4 U,Cheerleader - Felix Jaehn Remix Radio Edit,7vFoFDWqTX0mHzLfrF1Cfy,0.782,0.685,4,-6.237,1,0.0309,1.18e-05,0.16,0.603,118.016,180566,4
+Imagine Dragons,Night Visions,Radioactive,4G8gkOterJn0Ywt6uhqbhp,0.448,0.784,9,-3.686,1,0.0627,0.000108,0.668,0.236,136.245,186813,4
+Shawn Mendes,Shawn Mendes (Deluxe),Señorita,6v3KW9xbzN5yKLt9YKDYA2,0.759,0.548,9,-6.049,0,0.029,0.0,0.0828,0.749,116.967,190800,4
+B.o.B,B.o.B Presents: The Adventures of Bobby Ray,Airplanes (feat. Hayley Williams),6lV2MSQmRIkycDScNtrBXO,0.66,0.867,6,-4.285,0,0.116,0.0,0.0368,0.377,93.033,180480,4
+XXXTENTACION,?,SAD!,3ee8Jmje8o58CHK66QrVC2,0.74,0.613,8,-4.88,1,0.145,0.00372,0.123,0.473,75.023,166606,4
+Ed Sheeran,x (Wembley Edition),Thinking out Loud,1Slwb6dOYkBlWal1PGtnNg,0.781,0.445,2,-6.061,1,0.0295,0.0,0.184,0.591,78.998,281560,4
+Wiz Khalifa,See You Again (feat. Charlie Puth),See You Again (feat. Charlie Puth),2JzZzZUQj3Qff7wapcbKjc,0.689,0.481,10,-7.503,1,0.0815,1.03e-06,0.0649,0.283,80.025,229526,4
+Calvin Harris,Motion,Summer,6YUTL4dYpB9xZO5qExPf05,0.596,0.856,4,-3.556,0,0.0346,0.0178,0.141,0.743,127.949,222533,4
+Drake,Scorpion,God's Plan,6DCZcSspjsKoFjzjrWoCdn,0.754,0.449,7,-9.211,1,0.109,8.29e-05,0.552,0.357,77.169,198973,4
+The Chainsmokers,The Chainsmokers- Japan Special Edition,Don't Let Me Down,0QsvXIfqM0zZoerQfsI9lm,0.542,0.859,11,-5.651,1,0.197,0.00466,0.137,0.403,159.797,208053,4
+Macklemore & Ryan Lewis,The Heist [Deluxe Edition],Thrift Shop (feat. Wanz),3AYcyxEACnmE6d96RPubID,0.781,0.526,6,-6.985,0,0.293,0.0,0.0457,0.662,94.992,235613,4
+Post Malone,beerbongs & bentleys,rockstar (feat. 21 Savage),0e7ipj03S05BNilyu5bRzt,0.585,0.52,5,-6.136,0,0.0712,7.01e-05,0.131,0.129,159.801,218147,4
+Bruno Mars,Doo-Wops & Hooligans,Grenade,4lLtanYk6tkMvooU0tWzG8,0.706,0.558,2,-7.237,0,0.0593,0.0,0.118,0.227,110.443,223253,4
+Mike Posner,"At Night, Alone.",I Took A Pill In Ibiza - Seeb Remix,1MtUq6Wp1eQ8PC6BbPCj8P,0.664,0.714,7,-6.645,0,0.111,8.42e-06,0.0843,0.71,101.969,197933,4
+Luis Fonsi,VIDA,Despacito,6habFhsOp2NvshLv26DqMb,0.655,0.797,2,-4.787,1,0.153,0.0,0.067,0.839,177.928,229360,4
+Kendrick Lamar,DAMN.,HUMBLE.,7KXjTSCq5nL1LoYtL7XAwS,0.908,0.621,1,-6.638,0,0.102,5.39e-05,0.0958,0.421,150.011,177000,4
+Lil Nas X,7 EP,Old Town Road - Remix,2YpeDb67231RjR0MgVLzsG,0.878,0.619,6,-5.56,1,0.102,0.0,0.113,0.639,136.041,157067,4
+Shakira,Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground),Waka Waka (This Time for Africa) [The Official 2010 FIFA World Cup (TM) Song] (feat. Freshlyground),2Cd9iWfcOpGDHLz6tVA3G4,0.766,0.873,11,-6.381,0,0.143,0.0,0.0764,0.743,126.988,202627,4
+Don Omar,Meet The Orphans,Danza Kuduro,2a1o6ZejUi8U3wzzOtCOYw,0.4,0.915,0,-4.89,1,0.28,0.0,0.0503,0.878,88.917,198773,3
+Katy Perry,PRISM (Deluxe),Dark Horse,5jrdCoLpJSvHHorevXBATy,0.645,0.585,6,-6.122,1,0.0513,0.0,0.165,0.353,131.931,215672,4
+Sia,This Is Acting,Cheap Thrills,27SdWb2rFzO6GWiYDBTD9j,0.628,0.698,6,-5.608,0,0.105,0.00143,0.0907,0.732,89.976,211667,4
+Mark Ronson,Uptown Special,Uptown Funk (feat. Bruno Mars),32OlwWuMpZ6b0aN2RZOeMS,0.856,0.609,0,-7.223,1,0.0824,8.15e-05,0.0344,0.928,114.988,269667,4
+Luis Fonsi,VIDA,Despacito - Remix,1vnnXMrBeEWiRg3YCMCjQq,0.649,0.798,2,-4.346,1,0.178,0.0,0.0711,0.857,177.899,230413,4
+Rihanna,Loud,Only Girl (In The World),0AH6WMe3OlAlUb5miXt2FQ,0.789,0.716,11,-4.241,0,0.0432,1.07e-05,0.069,0.611,125.906,235493,4
+Post Malone,beerbongs & bentleys,Psycho (feat. Ty Dolla $ign),3swc6WTsr7rl9DqQKQA55C,0.75,0.56,8,-8.094,1,0.105,0.0,0.111,0.459,140.06,221440,4
+Pharrell Williams,G I R L,"Happy - From ""Despicable Me 2""",5b88tNINg4Q4nrRbrCXUmg,0.647,0.822,5,-4.662,0,0.183,0.0,0.0908,0.962,160.019,232720,4
+Jennifer Lopez,On The Floor,On The Floor - Radio Edit,0Oe49j06Bjrxs8PltuVeaW,0.758,0.686,11,-6.346,1,0.0792,0.00127,0.142,0.444,130.007,230907,4
+Nicki Minaj,Pink Friday ... Roman Reloaded,Starships,1oHNvJVbFkexQc0BpQp7Y4,0.747,0.716,11,-2.457,0,0.075,0.0,0.251,0.751,125.008,210627,4
+Flo Rida,Wild Ones,Whistle,3bC1ahPIYt1btJzSSEyyrF,0.747,0.937,0,-5.746,1,0.0453,0.0,0.29,0.739,103.976,224653,4
+LMFAO,Sorry For Party Rocking,Party Rock Anthem,4650WGL6InVqP7YN5POqIz,0.751,0.736,5,-4.168,0,0.156,0.0,0.265,0.352,130.014,262147,4
+Drake,Scorpion,In My Feelings,2G7V7zsVDxg1yRsu7Ew9RJ,0.835,0.626,1,-5.833,1,0.125,6e-05,0.396,0.35,91.03,217925,4
+The Chainsmokers,Memories...Do Not Open,Something Just Like This,6RUKPb4LETWmmr3iAEQktW,0.617,0.635,11,-6.769,0,0.0317,1.44e-05,0.164,0.446,103.019,247160,4
+John Legend,Love In The Future (Expanded Edition),All of Me,3U4isOIWM3VvDubwSI3y7a,0.422,0.264,8,-7.064,1,0.0322,0.0,0.132,0.331,119.93,269560,4
+Passenger,All The Little Lights,Let Her Go,2jyjhRf6DVbMPU5zxagN2h,0.509,0.538,7,-7.335,1,0.0572,0.0,0.104,0.244,75.089,252867,4
+Eminem,Recovery,Not Afraid,7Ie9W94M7OjPoZVV216Xus,0.855,0.954,0,-1.19,0,0.264,0.0,0.205,0.668,114.635,248133,5

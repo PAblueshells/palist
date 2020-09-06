@@ -1,8 +1,97 @@
-danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,type,id,uri,track_href,analysis_url,duration_ms,time_signature
-0.648,0.392,8,-7.815,0,0.03,0.718,0.0,0.237,0.416,80.061,audio_features,08uVt0ax6g380Yti4KeHaE,spotify:track:08uVt0ax6g380Yti4KeHaE,https://api.spotify.com/v1/tracks/08uVt0ax6g380Yti4KeHaE,https://api.spotify.com/v1/audio-analysis/08uVt0ax6g380Yti4KeHaE,193283,4
-0.436,0.0903,0,-11.838,1,0.0311,0.943,0.000899,0.105,0.125,102.696,audio_features,6tc1gT93ZpMKx3N5AgVljV,spotify:track:6tc1gT93ZpMKx3N5AgVljV,https://api.spotify.com/v1/tracks/6tc1gT93ZpMKx3N5AgVljV,https://api.spotify.com/v1/audio-analysis/6tc1gT93ZpMKx3N5AgVljV,261471,4
-0.629,0.327,11,-8.285,1,0.029,0.761,2.96e-05,0.103,0.381,74.953,audio_features,1TQXIltqoZ5XXyfCbAeSQQ,spotify:track:1TQXIltqoZ5XXyfCbAeSQQ,https://api.spotify.com/v1/tracks/1TQXIltqoZ5XXyfCbAeSQQ,https://api.spotify.com/v1/audio-analysis/1TQXIltqoZ5XXyfCbAeSQQ,197732,4
-0.51,0.294,1,-8.24,0,0.0565,0.283,0.0,0.0825,0.396,121.442,audio_features,2nUqSe3heoIkKnqbteZxPm,spotify:track:2nUqSe3heoIkKnqbteZxPm,https://api.spotify.com/v1/tracks/2nUqSe3heoIkKnqbteZxPm,https://api.spotify.com/v1/audio-analysis/2nUqSe3heoIkKnqbteZxPm,159150,4
-0.364,0.308,4,-13.052,1,0.0402,0.896,0.00227,0.123,0.389,73.331,audio_features,2BOof6lYrGfz6BojJ0aeJd,spotify:track:2BOof6lYrGfz6BojJ0aeJd,https://api.spotify.com/v1/tracks/2BOof6lYrGfz6BojJ0aeJd,https://api.spotify.com/v1/audio-analysis/2BOof6lYrGfz6BojJ0aeJd,191773,4
-0.501,0.405,1,-5.679,1,0.0319,0.751,0.0,0.105,0.446,109.891,audio_features,7qEHsqek33rTcFNT9PFqLf,spotify:track:7qEHsqek33rTcFNT9PFqLf,https://api.spotify.com/v1/tracks/7qEHsqek33rTcFNT9PFqLf,https://api.spotify.com/v1/audio-analysis/7qEHsqek33rTcFNT9PFqLf,182161,4
-0.297,0.801,1,-5.357,0,0.059,0.0353,1.9e-06,0.961,0.358,153.826,audio_features,1E0AiFkPAQDWOUZzKyw3YV,spotify:track:1E0AiFkPAQDWOUZzKyw3YV,https://api.spotify.com/v1/tracks/1E0AiFkPAQDWOUZzKyw3YV,https://api.spotify.com/v1/audio-analysis/1E0AiFkPAQDWOUZzKyw3YV,225253,4
+artist,album,track_name,track_id,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+juno roome,american boy,american boy,5N7ktSDlZ18RfGdnAfZo26,0.653,0.4,9,-9.691,1,0.0361,0.000109,0.114,0.363,96.001,228000,4
+The Lunar Year,Herodias,Porcelain,1gEeuTTDXyEHd95rFm4Pop,0.229,0.155,6,-13.306,1,0.0345,2.11e-06,0.109,0.113,86.016,206708,4
+Tom Rosenthal,Z-Sides,Lights Are On,4IhTXiZLKATmwhMZIb1GQN,0.44,0.04,3,-16.887,1,0.0322,0.465,0.111,0.249,135.965,193749,4
+Massimo Natali [IT],Nobody's Home,Metronome,5uGY5VV9lZonCaRKm1wwmO,0.396,0.00408,6,-34.489,0,0.0542,0.962,0.109,0.108,65.174,178867,3
+Jealous of the Birds,Wisdom Teeth,Kosiskelu,3c6zfoj0h4cfNd9IkEtlid,0.542,0.622,4,-5.99,0,0.0385,8.86e-06,0.0939,0.286,143.984,207933,4
+Roman Lewis,Mindless Town,Mindless Town,0pQZ8JROGkVX0sPqSyb7MI,0.35,0.192,2,-8.782,1,0.0324,0.00577,0.103,0.14,75.874,316492,4
+Sivu,Sweet Sweet Silent (Deluxe Version),Trickle,7IymjBjEmFGu3koYP7hVML,0.47,0.125,7,-18.941,0,0.0431,0.00137,0.145,0.117,71.328,250027,4
+Jealous of the Birds,Parma Violets,Tonight I Feel Like Kafka,6ojZsSfUuRUC4VxtWLUAdi,0.708,0.298,10,-13.671,0,0.0318,7.05e-06,0.17,0.351,116.048,189107,4
+Tora,Can't Buy the Mood,Similar,2HMAB8zla6LG6bpjycfsCT,0.41,0.372,1,-8.938,1,0.0487,3.55e-05,0.114,0.2,147.932,168376,4
+Daniel Caesar,CASE STUDY 01,SUPERPOSITION,45PxuJqJBnPXZKLxoo9Apj,0.589,0.279,4,-11.209,1,0.0408,0.000128,0.087,0.333,115.656,263795,4
+Ryuichi Sakamoto,1996,Merry Christmas Mr. Lawrence,17oLsEzzlGFlrBKViCzmGc,0.479,0.174,10,-18.021,0,0.0371,0.841,0.115,0.296,103.577,286667,4
+Jelani Aryeh,Lavender Love,Lavender Love,2n756VAMiFnX4hW2VYw7Yv,0.768,0.217,4,-13.067,1,0.0626,0.000695,0.117,0.195,77.002,155755,4
+The Paper Kites,Young North - EP,Paint,2BOof6lYrGfz6BojJ0aeJd,0.364,0.308,4,-13.052,1,0.0402,0.00227,0.123,0.389,73.331,191773,4
+Dianna Lopez,Blu,Blu,5JvIxG1pIC7lzYFHl2AvwO,0.409,0.319,4,-13.023,1,0.0376,0.00403,0.0869,0.138,115.413,269753,4
+PHILDEL,Earth Alone,Earth Alone,18qWG3ejGGRk9Cq4BIJPGc,0.415,0.000801,0,-24.654,1,0.06,0.949,0.072,0.344,76.3,177600,1
+Anne-Sophie Mutter,Anne-Sophie Mutter - Tango Song and Dance,Tango Song and Dance (dedicated to Anne-Sophie Mutter): 3. Dance. Jazz feeling,36hVrGBjkBLQdCpRbmweV6,0.437,0.298,7,-16.721,1,0.05,0.54,0.204,0.228,74.643,322480,4
+The Velvet Underground,The Velvet Underground (45th Anniversary),Pale Blue Eyes,11VwZwNF29HrqwalYUMitb,0.637,0.107,5,-18.759,1,0.0349,0.00146,0.103,0.296,82.879,339533,4
+"Tyler, The Creator",IGOR,EARFQUAKE,5hVghJ4KaYES3BFUATCYn0,0.554,0.498,9,-8.866,1,0.0685,5.98e-06,0.795,0.413,79.635,190067,4
+BROCKHAMPTON,GINGER,NO HALO,694vvR5o19xHPhhJ5QdLN7,0.643,0.573,4,-7.034,1,0.0709,0.00017,0.0695,0.47,165.192,259747,4
+Lester Young,The President Plays With The Oscar Peterson Trio,Stardust,5gHPj9g3L9e2cu81LZUc5F,0.474,0.0494,10,-18.849,0,0.0912,0.749,0.106,0.226,62.287,212600,4
+Velvet Negroni,NEON BROWN,SCRATCHERS,46dgEGSZYa6edmSObP5yfd,0.647,0.517,8,-10.027,0,0.0724,1.22e-05,0.0919,0.277,111.966,329728,4
+Fog Lake,Virgo Indigo,Virgo Indigo,6y0ixMRGFrf8AXYazll7cg,0.295,0.33,9,-12.01,1,0.0319,0.854,0.114,0.0899,108.52,148533,4
+Caamp,Boys (Side B),Strawberries,0ESvfrHfNuAtkZp8SMJBOY,0.547,0.0897,3,-18.732,1,0.0457,0.00578,0.111,0.263,117.17,219344,5
+Hand Habits,placeholder,placeholder,6ABQcgTtAPCUyMkVwdRNJo,0.493,0.414,6,-9.372,0,0.0258,0.00134,0.0878,0.426,133.65,230007,4
+Q,Thoughts,You,4bhbTMVaEH1g1whkuTYTwf,0.555,0.203,5,-16.412,1,0.438,0.0,0.114,0.401,86.722,104542,4
+Sergei Rachmaninoff,Rachmaninov: Piano Concertos Nos. 1 & 2,"Piano Concerto No.2 In C Minor, Op.18: 1. Moderato",5yvj4dLlGRgS727KSO53tZ,0.298,0.104,0,-19.907,0,0.0414,0.892,0.0714,0.0398,109.564,706000,4
+Evgeny Kissin,Tchaikovsky: Piano Concerto No.1,"Piano Concerto No. 1 in B-Flat Minor, Op. 23, TH. 55: 2. Andantino semplice - Prestissimo - Tempo I - Live at Philharmonie, Berlin",1ZUgZYc8SuBkRLX7NZVrDH,0.2,0.0262,1,-32.407,1,0.0391,0.832,0.0639,0.0537,83.777,513307,3
+Mikhail Petukhov,"Mikhail Petukhov. Virtuoso Romantic: Liszt, Saint-Saens, Mendelssohn, Gounod, Rossini",Spanish Rhapsody for Piano and String Orchestra: S. 254,2wTFic3Az38c6KlE0HcOQl,0.361,0.36,9,-16.614,1,0.0388,0.628,0.0932,0.103,129.723,868493,4
+Arthur Rubinstein,50 Masterworks - Arthur Rubinstein,"Nocturnes, Op. 27: No. 2 in D-Flat Major",1nGDsTkP1npeWj4hJ9s9pw,0.394,0.00948,1,-27.572,1,0.045,0.914,0.112,0.0423,132.018,376440,4
+Paul Schoenfield,Schoenfield: Cafe Music,Cafe Music: III. Presto,4yN5rJ8J01YKPUeH8gp1da,0.348,0.314,0,-18.096,0,0.0329,0.874,0.0929,0.436,151.302,276000,4
+Georges Bizet,Bizet: Carmen,"Carmen (1997 - Remaster), Act II: Entr'acte",2foQndWsLGVK3EmfjZBMKA,0.164,0.0272,3,-31.926,1,0.0392,0.967,0.103,0.121,71.973,179640,4
+Chicago Symphony Orchestra,Tchaikovsky: Symphony No.5/Swan Lake Suite,"Swan Lake (Suite), Op.20a, TH 219: 4. Scene",2ClP0FBd68SH9y1fTapP86,0.286,0.0165,3,-33.039,0,0.0442,0.0457,0.0853,0.0435,119.626,416893,3
+Jean Sibelius,"Sibelius: Symphony No. 2 in D Major, Op. 43 & Symphony No. 7 in C Major, Op. 105","Symphony No. 2 in D Major, Op. 43: IV. Finale. Allegro moderato",3j7YAq4A8HPx6vLt0N06CN,0.137,0.273,2,-14.106,1,0.0328,0.932,0.248,0.118,84.138,874160,3
+Paul Schoenfield,Schoenfield: Cafe Music,Cafe Music: I. Allegro,60FGTQHbOvsJC5mZq90Ko8,0.376,0.223,3,-19.638,1,0.0348,0.833,0.254,0.281,109.655,350667,4
+Dmitri Shostakovich,Shostakovich: Jazz Suites Nos. 1 - 2 / The Bolt / Tahiti Trot,Jazz Suite No. 2: VI. Waltz 2,0pjCsB0XNSyqM9UazlTODC,0.322,0.184,0,-18.312,0,0.0338,0.902,0.0813,0.356,107.847,193600,4
+Anne-Sophie Mutter,Anne-Sophie Mutter - Tango Song and Dance,Porgy and Bess: It Ain't Necessarily So,6ru9eKLo3aSjwRS9t0GhAg,0.349,0.145,2,-19.408,0,0.0537,0.422,0.107,0.296,123.722,162280,4
+Wolfgang Amadeus Mozart,"Mozart: Piano Concertos No.20 in D minor, K.466 & No.27 in B flat, K.595","Piano Concerto No.27 in B flat, K.595: 2. Larghetto",2TDYhUsCuLEK0mkPZCYKPV,0.171,0.0115,3,-30.173,1,0.0436,0.848,0.0991,0.083,72.404,452707,4
+Various Artists,Fantasia 2000,Rhapsody In Blue,1s1RlSnTe70UVao58Nx7SN,0.323,0.121,8,-22.246,1,0.0425,0.795,0.0852,0.0938,150.979,755067,4
+Sergei Rachmaninoff,Rachmaninov: Piano Concerto No. 3 & Rhapsody On a Theme of Paganini,"Rhapsody On a Theme of Paganini, Op. 43: V. Variation XVIII",7EcjtjNYDhQ82yCQZU0Z9C,0.123,0.0386,1,-25.577,1,0.0374,0.939,0.0865,0.0573,174.824,163413,4
+André Navarra,Ravel: Spanish Rhapsody - Lalo: Cello Concerto - Enescu: Romanian Rhapsodies Nos. 1 & 2,"Rhapsodie espagnole in C Major, M. 54: IV. Feria",0FIcafEL05BaC9z1xYFvLY,0.163,0.317,5,-16.014,1,0.0626,0.878,0.124,0.128,71.28,399560,4
+Kirill Gerstein,The Gershwin Moment: Rhapsody in Blue & Piano Concerto in F Major (Live),Piano Concerto in F Major: III. Allegro agitato (Live),5lixcXV4cLdqVoUDbQKLdP,0.352,0.406,0,-15.411,0,0.0868,0.719,0.789,0.343,142.234,442533,4
+Kirill Gerstein,The Gershwin Moment: Rhapsody in Blue & Piano Concerto in F Major (Live),Piano Concerto in F Major: II. Adagio (Live),1VvoZCU0SoKrp3zYCg92cn,0.185,0.0329,6,-24.641,1,0.0412,0.874,0.13,0.0549,67.654,759400,4
+Gustav Holst,"Holst: The Planets, Op. 32","Holst: The Planets, Op. 32: IV. Jupiter, the Bringer of Jollity",7nqFpYqxbt8yiiJFVjBXwf,0.258,0.212,5,-15.901,1,0.0377,0.78,0.133,0.219,67.447,461000,4
+Frédéric Chopin,Chopin: Piano Works - The World of Chopin Vol. 1,Piano Concerto N. 2 in F Minor Op. 21: II. Larghetto,4YHtSHIFW7a2ADmAZs7qSM,0.238,0.076,8,-22.048,1,0.0356,0.942,0.0917,0.0553,95.288,533667,5
+Mstislav Rostropovich,Dvorák: Cello Concerto / Tchaikovsky: Variations on a Rococo Theme,"Cello Concerto In B Minor, Op.104, B. 191: 1. Allegro",4WhWxSgIGEs69HwSjGYM1q,0.231,0.133,2,-20.274,1,0.0437,0.659,0.135,0.0564,122.239,942000,4
+Mstislav Rostropovich,Dvorák: Cello Concerto / Tchaikovsky: Variations on a Rococo Theme,"Cello Concerto In B Minor, Op.104, B. 191: 3. Finale (Allegro moderato)",2IboMXnngOs4zMxpkVkDCx,0.138,0.0862,7,-21.026,1,0.0378,0.756,0.0709,0.0684,83.486,778000,4
+Itzhak Perlman,Debussy: Violin Sonata; Cello Sonata/Ravel: Piano Trio,"Piano Trio in A minor, M. 67: 1. Modéré",2PDJ2SkeP2ezm5tmHuHdl6,0.177,0.0972,0,-23.946,1,0.0427,0.394,0.0643,0.0712,81.672,564493,4
+Kirill Gerstein,The Gershwin Moment: Rhapsody in Blue & Piano Concerto in F Major (Live),Piano Concerto in F Major: I. Allegro (Live),3N7MKnqMxynvSnSYH3k6FG,0.328,0.23,5,-17.361,0,0.0395,0.89,0.155,0.112,94.227,811813,4
+Pyotr Ilyich Tchaikovsky,Tchaikovsky: Violin Concerto & Sérénade mélancolique,"Tchaikovsky: Violin Concerto in D Major, Op. 35: I. Allegro moderato",0V6V6fwKxTHDrsLLmgW432,0.314,0.172,2,-15.706,1,0.0405,0.342,0.119,0.16,94.694,1160280,4
+The Red Pill,The Story of the Chinese Farmer,The Story of the Chinese Farmer,5QTIGUgV4eFrg0o3k8lGTp,0.522,0.285,0,-15.946,1,0.556,0.325,0.13,0.222,116.895,131788,5
+glass beach,the first glass beach album,(forever?????????),517sX57TlnUy19bkOBfnZS,0.303,0.07,1,-22.367,1,0.0347,0.882,0.108,0.0383,160.118,108000,3
+Rayland Baxter,Wide Awake,Without Me,58fhd4lGAudPcnfY9oenp1,0.47,0.351,7,-9.385,1,0.034,1.32e-06,0.556,0.392,152.013,344573,4
+dhruv,moonlight,moonlight,4d83gRvk3DHU5cWBbyOlSk,0.736,0.5,11,-11.229,0,0.171,0.00131,0.104,0.565,92.031,159130,4
+Soft Glas,Stunned,Basil,6MtNaFEE9samNAE9OfX2bo,0.438,0.217,9,-15.78,0,0.0315,0.826,0.0981,0.098,108.065,152500,4
+Perfume Genius,Set My Heart On Fire Immediately,Moonbend,7D8Zhn0cJyPHFPs7sFdfgQ,0.282,0.156,5,-13.396,0,0.0416,0.00253,0.109,0.0912,170.126,321520,1
+Fyfe,Extended Play,"Two One, Four",2k0gUaEAOniTbwYWNTh9ZA,0.17,0.0383,0,-21.622,1,0.0444,0.918,0.0897,0.0349,79.601,277347,4
+Jealous of the Birds,Wisdom Teeth,Kosiskelu,467FWpKENipqUfskHZYACp,0.539,0.646,4,-5.934,0,0.0398,6.1e-06,0.091,0.332,144.074,207920,4
+Adam Melchor,Real Estate,Real Estate,2VvTMIXG760UiG9OSiFt9j,0.493,0.284,2,-12.815,1,0.0309,0.00739,0.151,0.199,79.959,216000,4
+Charlie Burg,Live in Peter's Attic,I Don't Wanna Be Okay Without You,5HKv1sFHbXgmXBih203HxT,0.532,0.319,5,-7.461,1,0.0288,2.52e-05,0.138,0.166,62.984,243797,4
+Theo Katzman,Modern Johnny Sings: Songs in the Age of Vibe,Fog in the Mirror,2gx8bumNIp9AS3JSSYekgc,0.736,0.278,3,-14.971,1,0.0517,0.184,0.111,0.259,101.927,241376,4
+Frank Ocean,Cayendo (Side A - Acoustic),Cayendo (Side A - Acoustic),72794Eag03xdy7TO0KNuid,0.35,0.12,3,-11.104,0,0.0393,0.000289,0.103,0.121,68.995,202200,4
+Riley Baron,Golden,Golden,7jnarlfZrFDOFEWeLXtxx9,0.285,0.119,4,-9.565,0,0.0319,0.00952,0.0855,0.0639,79.724,175059,4
+SYML,Take Me Apart,Take Me Apart - Piano Solo,3twknNqDFoDVyr8QWUEP9P,0.632,0.0912,7,-23.805,0,0.0364,0.923,0.107,0.139,99.995,237141,3
+Meyru,Good to See You,She,63o0CBXZ6LAnJoqz26oRj9,0.569,0.28,11,-9.908,0,0.0348,0.000764,0.34,0.0408,118.011,334608,4
+RY X,Unfurl,Mallorca,5YfsKjgsJU1Pe6iRAmZfnq,0.527,0.2,9,-16.347,0,0.0352,0.00562,0.0994,0.151,155.855,184227,4
+Roman Lewis,Mindless Town,Mindless Town,2JXQGMpCTHbXJrB9f4jsDh,0.35,0.192,2,-8.782,1,0.0324,0.00577,0.103,0.14,75.874,316492,4
+Lauren Preuss,Carried Away,Carried Away,3cYu4mmxV188GndMGIEMq1,0.494,0.138,7,-22.142,1,0.0405,0.05,0.0841,0.178,81.37,199505,4
+Mitski,Be the Cowboy,Two Slow Dancers,18Zr5WWu7X9LVool3pJRum,0.225,0.106,0,-13.166,1,0.0328,0.000767,0.108,0.0535,81.392,239304,4
+Dr. Dog,Critical Equation,Night,2FFAzUR4gFg2cK4IGfPADb,0.437,0.383,11,-10.408,1,0.0261,0.00188,0.138,0.132,112.012,362819,4
+Nick Ward,Crush,Crush,0JxnvaBZqB2O6wjMbK66xH,0.782,0.293,4,-16.073,1,0.0377,0.712,0.109,0.183,120.031,214000,4
+Sydwaves,Orange Ocean,Orange Ocean,6zFpffDjWcq6naSPMQ0ZsT,0.689,0.203,9,-17.924,0,0.0476,0.861,0.119,0.634,89.915,61333,4
+Angelo De Augustine,Tomb,Tomb,4IPCF4vkbVii2PFqUXQJ8D,0.644,0.234,10,-14.938,1,0.0315,0.0195,0.103,0.643,85.966,258003,4
+Ewan J Phillips,I Wish I Was the Moon,I Wish I Was the Moon,4YdMffAeaoLvQ3x7Aoqgr3,0.413,0.315,1,-11.801,0,0.0346,0.0606,0.0953,0.0809,99.384,218231,3
+Lonas,Quiver,Quiver,0yPm9Wg6qcTwLZIXweNGpA,0.454,0.314,4,-11.278,1,0.0292,0.00166,0.111,0.203,142.951,251872,4
+Edwin Raphael,Will You Think of Me Later?,Isle of Strawberries,7zfTF24acTKL42XSfzGETi,0.626,0.25,1,-8.006,0,0.0308,6.62e-05,0.12,0.308,134.971,216370,4
+Ben Howard,Every Kingdom,Promise,4qyfir5Yr7nfo05g6cyFMT,0.367,0.189,2,-15.736,1,0.0384,0.428,0.364,0.177,156.643,384080,4
+Massimo Natali [IT],Hologram,Hologram,2Y76JwsclhGdtZ8fMuWg2r,0.19,0.0897,9,-29.799,0,0.0523,0.792,0.113,0.16,182.806,103169,4
+Shua,You Can Only Go in Pieces,You Can Only Go in Pieces,4GOlix5rBWcHrndmUObqi1,0.412,0.365,7,-10.818,1,0.0458,2.51e-06,0.459,0.171,108.649,226527,3
+Loving,If I Am Only My Thoughts,Only She Knows,2AXd4r3Y00PjjNxceN3mZm,0.526,0.437,2,-8.084,0,0.0248,0.839,0.111,0.455,82.106,178368,4
+Dua Saleh,umbrellar,umbrellar,00PXRPuZFlM5dv1FeJa69J,0.293,0.85,1,-6.05,1,0.066,0.0304,0.234,0.367,129.634,155763,4
+SYML,Wildfire,Wildfire - Piano and Violin Version,4XqHxJ78r606T7PnH6WcYO,0.322,0.254,8,-9.956,0,0.0453,0.726,0.104,0.0939,128.695,235429,4
+Gloria Laing,Why Can't I Have You,Why Can't I Have You,2FpzO4dqbCUPtZUQDjcLL3,0.827,0.195,7,-17.651,1,0.0638,0.141,0.0987,0.229,137.966,285209,4
+RY X,Unfurl,Hounds,1ifY6niN0PWGaNqydwsAsT,0.483,0.0906,8,-18.659,0,0.0346,0.00105,0.096,0.12,110.613,239640,4
+Eloise,This Thing Called Living,Left Side,6QUVcbxAJTVDQeDrchWzZx,0.715,0.239,0,-13.41,1,0.0826,1.46e-06,0.186,0.379,114.91,144963,4
+Miya Folick,Premonitions,Thingamajig,5jQ5iwHkqyk6HgxLOFdJo1,0.315,0.224,0,-11.94,1,0.0406,0.000377,0.109,0.0727,206.727,252067,4
+Mustafa,Stay Alive,Stay Alive,1COWb4m8g8jY7fi3wXzo5b,0.557,0.18,5,-15.417,1,0.0356,2.32e-05,0.498,0.456,85.963,181373,4
+Juan Solorzano,Turn Blue,Turn Blue,2wSELeZvna2uRakHhud5q2,0.554,0.624,5,-10.301,1,0.0294,0.89,0.114,0.439,106.102,158976,4
+Brandon,Weep,Weep,3N5Ez4Xd5SIRBUh3eZ4C7s,0.698,0.116,2,-12.287,0,0.0365,8.54e-05,0.0998,0.254,124.1,295750,4
+Isaac Dunbar,isaac's insects,scorton's creek,7fX0Vp9q2mtibJF0OkXq9w,0.349,0.373,4,-10.979,0,0.0442,2.67e-06,0.0811,0.406,83.959,148000,4
+Mitski,Bury Me At Makeout Creek,Last Words of a Shooting Star,0zCm4JTVBuIWSSL8rMUChT,0.393,0.167,2,-19.024,1,0.0361,0.00097,0.11,0.0961,129.955,164227,3
+Jeremy Zucker,brent,scared,6r2JV75tE0vNgNCv4HKsBC,0.583,0.075,5,-15.843,1,0.0726,1.4e-06,0.111,0.347,108.418,207520,4
+Dreams We've Had,Everything And You,Perfectly Out Of Place,5jtbhF7zGZR4YRMxhLV4V8,0.437,0.419,11,-8.003,1,0.0311,0.142,0.0767,0.118,110.065,293455,4
+Yellow House,A Carnival of Fears,Love in the Time of Socialism,0JuJ0M9ZaKDwXms3rUh1Hk,0.244,0.259,10,-9.591,1,0.035,0.0,0.158,0.19,76.973,251185,4
+Flipturn,August (Acoustic),August (Acoustic),2JXiyD1zucGdFmnTeYb5Ry,0.519,0.264,6,-12.782,1,0.0315,0.154,0.113,0.0812,79.819,302000,4
+Sudan Archives,Iceland Moss - A COLORS SHOW,Iceland Moss - A COLORS SHOW,126Dh4bH1Dj7gc8B0Kf93A,0.64,0.437,4,-9.796,0,0.0331,0.0,0.0796,0.15,80.007,211875,4
+Everything Is Recorded,FRIDAY FOREVER,10:51 PM / THE NIGHT,3JzbpaZYceToU6x1trOEM4,0.6,0.689,0,-7.468,1,0.0693,0.0058,0.562,0.724,89.979,202760,4
