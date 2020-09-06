@@ -50,7 +50,7 @@ sp = spotipy.Spotify(cache_token)
 
 user = "spotify"
 pl_id = "37i9dQZF1DWYJ5kmTbkZiz" # note: access original playlist info using pl_id: https://open.spotify.com/playlist/37i9dQZF1DWYJ5kmTbkZiz
-analyze_playlist(user, pl_id).to_csv(f'../dummy_track_features/{user}.topTracks2010s.csv', sep=',', index=False)
+analyze_playlist(user, pl_id).to_csv(f'../dummy_data/track_features/{user}.topTracks2010s.csv', sep=',', index=False)
 
 
-analyze_playlist("12160726861", "6yPiKpy7evrwvZodByKvM9").to_csv(f'../dummy_track_features/oscar.longestPlaylistEver.csv', sep=',', index=False)
+analyze_playlist("12160726861", "6yPiKpy7evrwvZodByKvM9").to_csv(f'../dummy_data/track_features/oscar.longestPlaylistEver.csv', sep=',', index=False)

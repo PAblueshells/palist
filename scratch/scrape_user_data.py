@@ -70,9 +70,9 @@ if __name__=='__main__':
     # saved tracks
     saved_tracks = sp.current_user_saved_tracks(limit=50)
     feature_df = tracks_to_df(saved_tracks)
-    feature_df.to_csv(f'../dummy_user_features/{username}.saved.csv', sep=',', index=False)
+    feature_df.to_csv(f'../dummy_data/user_features/{username}.saved.csv', sep=',', index=False)
 
     # top tracks
     top_tracks = sp.current_user_top_tracks(limit=50)
     feature_df = tracks_to_df(top_tracks)
-    feature_df.to_csv(f'../dummy_user_features/{username}.top.csv', sep=',', index=False)
+    feature_df.to_csv(f'../dummy_data/user_features/{username}.top.csv', sep=',', index=False)
