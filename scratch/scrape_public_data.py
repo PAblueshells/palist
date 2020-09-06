@@ -5,7 +5,9 @@ import pandas as pd
 def analyze_playlist(creator, playlist_id):
     
     # Create empty dataframe
-    playlist_features_list = ["artist","album","track_name",  "track_id","danceability","energy","key","loudness","mode", "speechiness","instrumentalness","liveness","valence","tempo", "duration_ms","time_signature"]
+    playlist_features_list = ["artist","album","track_name",  "track_id","artist_genre","album_genre",
+    "danceability","energy","key","loudness","mode", "speechiness","instrumentalness",
+    "liveness","valence","tempo", "duration_ms","time_signature"]
     
     playlist_df = pd.DataFrame(columns = playlist_features_list)
     
@@ -19,8 +21,11 @@ def analyze_playlist(creator, playlist_id):
         try:
             playlist_features["artist"] = track["track"]["album"]["artists"][0]["name"]
         except IndexError:
-            if len(track["track"]["album"]["artists"])==0:
+            if len(track["track"]["artists"])==0:
                 playlist_features["artist"] = None
+            else:
+                playlist_features["artist"] = track["track"]["artists"][0]
+
         playlist_features["album"] = track["track"]["album"]["name"]
         playlist_features["track_name"] = track["track"]["name"]
         playlist_features["track_id"] = track["track"]["id"]
@@ -29,16 +34,24 @@ def analyze_playlist(creator, playlist_id):
             print(f'skipping {playlist_features["track_name"]}, missing track id')
             continue # skip in case of missing track id
 
+
+        artist = sp.artist(track["track"]["artists"][0]["external_urls"]["spotify"])
+        playlist_features["artist_genre"] = ','.join(artist["genres"])
+
+        album = sp.album(track["track"]["album"]["external_urls"]["spotify"])
+        playlist_features["album_genre"] = ','.join(album["genres"])
+
+
         # Get audio features
         audio_features = sp.audio_features(playlist_features["track_id"])[0]
 
-        for feature in playlist_features_list[4:]:
+        for feature in playlist_features_list[6:]:
             playlist_features[feature] = audio_features[feature]
         
         # Concat the dfs
         track_df = pd.DataFrame(playlist_features, index = [0])
         playlist_df = pd.concat([playlist_df, track_df], ignore_index = True)
-        
+    print(playlist_df.columns)
     return playlist_df
 
 
