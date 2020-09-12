@@ -16,6 +16,15 @@ jupyter notebook --ip 0.0.0.0 --no-browser --allow-root # (to run jupyter)
 ```
 We Dockerize our app once it is further along ([a simple guide](https://runnable.com/docker/python/dockerize-your-python-application)).
 
+## Starting the [Flask](https://flask.palletsprojects.com/en/1.1.x/) app
+From the root directory of the project, run:
+```
+cd musicanalyzer
+export FLASK_APP=musicanalyzer.py
+python -m flask run
+```
+Finally, navigate to the local url where the app is being served (127.0.0.1:5000)
+
 ## Notes
 - API credentials are [here](https://developer.spotify.com/dashboard/applications), connected to Sarah's spotify acct
 
