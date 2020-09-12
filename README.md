@@ -23,7 +23,7 @@ cd musicanalyzer
 export FLASK_APP=musicanalyzer.py
 python -m flask run
 ```
-Finally, navigate to the local url where the app is being served (127.0.0.1:5000)
+Finally, navigate to the local url where the app is being served (`127.0.0.1:5000`)
 
 ## Notes
 - API credentials are [here](https://developer.spotify.com/dashboard/applications), connected to Sarah's spotify acct
