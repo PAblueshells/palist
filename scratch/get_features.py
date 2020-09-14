@@ -29,4 +29,5 @@ for playlist in playlists['items']:
 '''
 
 user = sp.user('dbt556ctk5xwblkyeoll80wb6')
-print(user)
+print(sp.current_user_top_artists())
+#print(user)

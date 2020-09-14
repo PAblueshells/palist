@@ -8,7 +8,10 @@ import pandas as pd
 verbose=False
 scope = 'user-library-read user-follow-read user-read-recently-played user-top-read'
 
-username='sarahlc888' # FILL THIS OUT BEFORE RUNNING (was too lazy to do command line args) 
+#username='sarahlc888' # FILL THIS OUT BEFORE RUNNING (was too lazy to do command line args) 
+
+username='1dv9mtkf3fqh5gs2j1fufyzsp' #jeffrey
+
 # make sure you're logged out of spotify before trying new users, otherwise you'll get the songs of whoever is still logged in
 
 

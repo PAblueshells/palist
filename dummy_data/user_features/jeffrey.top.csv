@@ -1,0 +1,51 @@
+artist,album,track_name,track_id,artist_genre,album_genre,danceability,energy,key,loudness,mode,speechiness,acousticness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Green Day,21st Century Breakdown,Restless Heart Syndrome,0CHmnY1V3tmxrIZAkpyxNh,"permanent wave,pop punk,punk",,0.253,0.826,2,-4.654,0,0.0309,0.0013,1.6e-06,0.0735,0.424,164.228,259640,4
+The Jim Carroll Band,Catholic Boy,People Who Died,5mcaY65WhtzFk1TFRGY6kY,pub rock,,0.315,0.628,5,-11.904,0,0.0725,0.0893,0.000663,0.109,0.931,190.668,299640,4
+Green Day,American Idiot (Deluxe),Whatsername,7HXtpmFjqt4Wv6T8y5lVz3,"permanent wave,pop punk,punk",,0.813,0.547,2,-5.936,1,0.0344,0.00104,0.00335,0.0914,0.8,119.998,257213,4
+The Highwaymen,Highwayman,Highwayman,7jWbXvrgdbkajU8L28ahn5,"country rock,outlaw country",,0.67,0.351,2,-16.842,1,0.0463,0.48,0.0176,0.115,0.45,101.384,182653,4
+Creedence Clearwater Revival,Willy And The Poor Boys,Fortunate Son,4BP3uh0hFLFRb5cjsgLqDh,"album rock,classic rock,country rock,rock,roots rock,southern rock,swamp rock",,0.64,0.663,0,-7.516,1,0.0374,0.201,0.00806,0.152,0.663,132.77,140773,4
+Green Day,American Idiot,Wake Me up When September Ends,3ZffCQKLFLUvYM59XKLbVm,"permanent wave,pop punk,punk",,0.546,0.814,7,-5.146,1,0.0314,0.023,0.0,0.0972,0.146,104.98,285653,4
+Green Day,¡DOS!,Stray Heart,2Q22sa3Y4lKXHHBBAxEhYY,"permanent wave,pop punk,punk",,0.628,0.943,1,-3.914,0,0.0402,0.000504,0.000237,0.152,0.743,104.041,224947,4
+Blue Öyster Cult,Blue Oyster Cult,Cities On Flame with Rock and Roll,0M7oqERflkrJVHD3IAZqxo,"album rock,art rock,blues rock,classic rock,hard rock,metal,rock,soft rock",,0.337,0.886,4,-8.607,1,0.098,0.0716,0.00156,0.204,0.648,177.713,242640,4
+Jim Croce,You Don't Mess Around With Jim,Walkin' Back to Georgia,51ueZKM83MTRv9rgiDfI6Y,"album rock,classic rock,country rock,folk,folk rock,mellow gold,rock,roots rock,singer-songwriter,soft rock",,0.661,0.518,6,-10.061,0,0.0319,0.621,1.78e-05,0.0953,0.776,127.266,170760,4
+Green Day,Revolution Radio,Bang Bang,278Ao6KQDxWGGszv24uvhI,"permanent wave,pop punk,punk",,0.499,0.958,9,-5.417,1,0.0898,0.000326,2.19e-06,0.432,0.359,127.491,205440,4
+Green Day,21st Century Breakdown,Know Your Enemy,5qtwzv99vOr5UTwnTixn7j,"permanent wave,pop punk,punk",,0.56,0.958,11,-3.245,1,0.0412,0.0016,4.96e-05,0.0643,0.961,129.984,190987,4
+Blue Öyster Cult,Fire of Unknown Origin,Veteran of the Psychic Wars,1bPUK3zBMK73QXmCLzqffn,"album rock,art rock,blues rock,classic rock,hard rock,metal,rock,soft rock",,0.453,0.776,0,-9.937,1,0.0432,0.162,3.81e-05,0.349,0.568,85.992,289587,4
+Green Day,¡TRÉ!,Missing You,1sy2KQjFHkPO5O4dLYAoIX,"permanent wave,pop punk,punk",,0.485,0.94,9,-4.067,1,0.0423,0.00296,0.000175,0.134,0.815,164.873,223693,4
+Bob Dylan,The Times They Are A-Changin',The Times They Are A-Changin',52vA3CYKZqZVdQnzRrdZt6,"classic rock,country rock,folk,folk rock,rock,roots rock,singer-songwriter",,0.389,0.396,7,-7.999,1,0.0332,0.887,0.0,0.0828,0.585,171.86,192053,3
+Dan Fogelberg,Love Songs,Run for the Roses,3TyNmJ7jRiryoLkB4ChAfA,"adult standards,classic rock,country rock,folk,folk rock,mellow gold,soft rock,yacht rock",,0.45,0.207,5,-14.5,1,0.0267,0.577,0.000311,0.179,0.248,90.078,254293,3
+Green Day,21st Century Breakdown,Horseshoes and Handgrenades,3Dl2gul5pJ5Ceh7ew5kvC9,"permanent wave,pop punk,punk",,0.456,0.993,9,-2.471,1,0.0594,6.58e-05,0.000601,0.297,0.684,142.966,194067,4
+Green Day,Revolution Radio,Revolution Radio,3oqYMRKQcwyNmFn1VD2ukD,"permanent wave,pop punk,punk",,0.419,0.971,7,-3.622,1,0.0909,4.63e-05,1.43e-05,0.171,0.677,180.033,180853,4
+Blue Öyster Cult,Agents Of Fortune,(Don't Fear) The Reaper,5QTxFnGygVM4jFQiBovmRo,"album rock,art rock,blues rock,classic rock,hard rock,metal,rock,soft rock",,0.333,0.927,9,-8.55,0,0.0733,0.0029,0.000211,0.297,0.382,141.47,308120,4
+The Offspring,"Rise And Fall, Rage And Grace","You're Gonna Go Far, Kid",6TfBA04WJ3X1d1wXhaCFVT,"alternative metal,permanent wave,pop punk,punk,rock,skate punk,socal pop punk",,0.55,0.917,0,-3.159,1,0.0638,0.00428,0.0,0.197,0.601,126.115,177827,4
+Green Day,American Idiot,Holiday / Boulevard of Broken Dreams,0MsrWnxQZxPAcov7c74sSo,"permanent wave,pop punk,punk",,0.29,0.827,8,-3.451,1,0.0362,0.000659,2.55e-06,0.301,0.45,167.086,493400,4
+John Denver,"The John Denver Collection, Vol 1: Take Me Home Country Roads","Take Me Home, Country Roads",39q7xibBdRboeMKUbZEB6g,"adult standards,classic country pop,folk,folk rock,mellow gold,soft rock",,0.255,0.43,9,-12.564,1,0.0322,0.546,1.87e-05,0.188,0.546,164.267,197813,4
+"Peter, Paul and Mary",Moving,"Puff, the Magic Dragon",3hqsBLMAqJqrhr434Z7WlA,"american folk revival,brill building pop,bubblegum pop,folk,folk rock,mellow gold,soft rock,traditional folk",,0.507,0.088,9,-23.309,1,0.0343,0.51,0.0,0.0984,0.398,144.226,206867,4
+Green Day,21st Century Breakdown,21 Guns,64yrDBpcdwEdNY9loyEGbX,"permanent wave,pop punk,punk",,0.268,0.742,5,-4.939,1,0.0355,0.0518,0.0,0.626,0.416,159.779,321093,4
+Green Day,Revolution Radio,Outlaws,0PAlrNkCRRHv7hShF5s7Rr,"permanent wave,pop punk,punk",,0.274,0.717,5,-5.435,1,0.0382,0.0111,0.0,0.123,0.0931,185.17,302333,4
+Green Day,21st Century Breakdown,21st Century Breakdown,0RT1qESYHlNcUJI0Yo5Hzl,"permanent wave,pop punk,punk",,0.298,0.963,1,-3.105,1,0.0473,0.0108,0.0,0.178,0.407,114.944,309107,4
+Blue Öyster Cult,Imaginos,Magna of Illusion,4rlHiKLXwY3w6u8owywgg6,"album rock,art rock,blues rock,classic rock,hard rock,metal,rock,soft rock",,0.377,0.816,11,-7.512,0,0.041,0.0317,2.64e-05,0.0791,0.385,99.453,358560,4
+Green Day,¡UNO!,Stay the Night,62RJY1zulBzXwn1poj0Je7,"permanent wave,pop punk,punk",,0.371,0.958,2,-4.089,1,0.053,0.000116,0.000904,0.0677,0.6,171.867,276707,4
+Dusty Springfield,You Don't Have To Say You Love Me,You Don't Have To Say You Love Me,0q8nQ0H4ad4KYcZdrTZPux,"adult standards,brill building pop,british invasion,folk,folk rock,mellow gold,motown,soul,vocal jazz",,0.317,0.513,2,-9.24,0,0.0339,0.455,0.0,0.0719,0.627,111.5,170440,3
+Bread,Lost Without Your Love,Lost Without Your Love,1aRncYBtdizYoVKcSt8oaY,"adult standards,country rock,folk,folk rock,mellow gold,soft rock",,0.266,0.345,10,-11.484,1,0.0309,0.376,1.9e-05,0.103,0.199,145.98,176893,4
+Okkervil River,The Stand Ins,Lost Coastlines,2016zoJ6TxYzqjwQNMh3kw,"alternative country,alternative rock,anti-folk,austindie,freak folk,indie folk,indie pop,indie rock,melancholia,modern folk rock,stomp and holler",,0.533,0.783,9,-4.992,1,0.0314,0.0401,0.0,0.109,0.702,109.899,331800,4
+Green Day,¡TRÉ!,Dirty Rotten Bastards,1mstO0Nk4V5gYlwwYdkujH,"permanent wave,pop punk,punk",,0.288,0.984,0,-3.375,1,0.0709,0.000307,5.96e-05,0.35,0.702,141.999,386360,4
+Green Day,¡UNO!,Fell for You,1qhrPLgAcTny6Xcv33GgLA,"permanent wave,pop punk,punk",,0.552,0.909,9,-3.413,1,0.0353,0.00052,4.72e-06,0.147,0.893,144.032,188653,4
+Blue Öyster Cult,Blue Oyster Cult,Then Came the Last Days of May,60TYdVs6TWIsAJ1MPRdv59,"album rock,art rock,blues rock,classic rock,hard rock,metal,rock,soft rock",,0.367,0.609,9,-11.221,0,0.0455,0.305,0.0256,0.196,0.445,149.394,210547,4
+Green Day,American Idiot,Give Me Novacaine / She's a Rebel,11I3KKHv7g2pXiuqRDabRA,"permanent wave,pop punk,punk",,0.312,0.949,9,-3.533,1,0.0784,0.00185,1.78e-05,0.0569,0.65,154.795,326200,4
+Simon & Garfunkel,"Parsley, Sage, Rosemary And Thyme",Scarborough Fair / Canticle,3g2fYZW5v2od8KIF7VktT0,"classic rock,folk,folk rock,melancholia,mellow gold,rock",,0.336,0.248,2,-15.626,1,0.0324,0.648,0.0,0.113,0.297,128.548,190347,3
+Blue Öyster Cult,Spectres,Godzilla,6N0AnkdDFZUetw8KAGHV7e,"album rock,art rock,blues rock,classic rock,hard rock,metal,rock,soft rock",,0.373,0.869,4,-7.719,1,0.0554,0.164,7.76e-06,0.605,0.696,184.024,221400,4
+Diamond Eyes,Everything,Everything,2goIIAg5kdzfwclJMFZM33,gaming edm,,0.609,0.681,10,-4.084,1,0.0516,0.0509,0.0,0.0845,0.386,140.038,267429,4
+Layto,Little Poor Me (Vosai Remix),Little Poor Me - Vosai Remix,7c9YkNvWQN6HEfxe1JLSFy,"bass trap,modern alternative rock,traprun",,0.531,0.682,5,-4.267,0,0.0658,0.0138,0.0,0.492,0.475,150.128,182475,4
+Jim Yosef,Hate You,Hate You,1ZbzOXEYMJNT1zxqLHyCfA,gaming edm,,0.651,0.661,10,-5.088,0,0.0322,0.572,0.0,0.121,0.389,97.056,197945,4
+Bread,Manna,If,40W8Mm9t3ZO1iNQlls35lL,"adult standards,country rock,folk,folk rock,mellow gold,soft rock",,0.388,0.176,9,-16.952,1,0.0299,0.912,0.000336,0.0977,0.342,97.628,155773,4
+Jim Croce,You Don't Mess Around With Jim,Time In a Bottle,561F1zqRwGPCTMRsLsXVtL,"album rock,classic rock,country rock,folk,folk rock,mellow gold,rock,roots rock,singer-songwriter,soft rock",,0.544,0.265,2,-11.952,1,0.035,0.848,0.0,0.196,0.7,133.837,146176,3
+Roxette,Look Sharp!,Listen To Your Heart,1qIKynV6YQZgocodkPdCy7,"dance pop,europop,new wave pop,pop rock,soft rock,swedish pop",,0.539,0.583,1,-4.935,0,0.0275,0.108,0.0,0.111,0.337,86.063,328093,4
+England Dan & John Ford Coley,Nights Are Forever,I'd Really Love to See You Tonight,2r008pcfVYc0zgQvSRqUJE,"adult standards,bubblegum pop,country rock,folk rock,mellow gold,soft rock",,0.62,0.556,5,-12.044,1,0.0336,0.184,0.0,0.301,0.592,119.172,159107,4
+Goblins from Mars,Vol. 2 (Originals),Cold Blooded Love,0Lz32TO8dvwvgYoJ83GCOl,gaming edm,,0.623,0.85,8,-5.413,0,0.0334,0.00832,0.0237,0.289,0.707,134.978,181262,4
+Green Day,Shenanigans,Don't Wanna Fall in Love,2VZjhNysOVeGCtH71Apbbd,"permanent wave,pop punk,punk",,0.414,0.98,8,-3.23,1,0.0885,0.00016,0.000409,0.0583,0.916,157.124,98467,4
+NIVIRO,The Labyrinth,The Labyrinth,4hzznHPSFn5siOzfaqrpyE,gaming edm,,0.615,0.885,4,-5.17,0,0.0295,0.0132,0.107,0.0963,0.471,138.107,187826,4
+Bread,Baby I'm-a Want You,Everything I Own,52VIdyKqp1pJRSyUQaxKUA,"adult standards,country rock,folk,folk rock,mellow gold,soft rock",,0.365,0.338,2,-13.406,1,0.0322,0.735,0.0,0.104,0.446,79.241,187000,4
+Blue Öyster Cult,Club Ninja,Make Rock Not War,7DMzjEW9rLZzbDAlnYiZAZ,"album rock,art rock,blues rock,classic rock,hard rock,metal,rock,soft rock",,0.58,0.882,3,-8.162,0,0.0534,0.138,0.0,0.324,0.557,131.026,237893,4
+Green Day,¡DOS!,Amy,7mjLvFRhiMfvEJiBOLDZkB,"permanent wave,pop punk,punk",,0.776,0.317,6,-8.221,1,0.0362,0.849,0.0,0.13,0.446,121.978,205107,4
+The King's Singers,Folk Songs Of The British Isles,Loch Lomond,0OHTE11AbX3oeT623REE0L,"a cappella,british choir,cambridge choir,choral,polyphony,vocal ensemble",,0.266,0.0248,10,-24.497,1,0.0467,0.959,6.04e-05,0.0978,0.0617,132.519,183693,4
