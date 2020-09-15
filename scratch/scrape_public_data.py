@@ -1,4 +1,5 @@
 import spotipy
+import argparse
 from spotipy.oauth2 import SpotifyClientCredentials
 import pandas as pd 
 
@@ -59,11 +60,20 @@ token = SpotifyClientCredentials()
 cache_token = token.get_access_token()
 sp = spotipy.Spotify(cache_token)
 
+parser = argparse.ArgumentParser(description='Scrape a playlist given the user and the playlist id')
+parser.add_argument('id', type=str, help='the id of the playlist to scrape')
+parser.add_argument('user', type=str, help='name of the user who owns the playlist (for naming)')
+
+#user = "spotify"
+#pl_id = "37i9dQZF1DWYJ5kmTbkZiz" # note: access original playlist info using pl_id: https://open.spotify.com/playlist/37i9dQZF1DWYJ5kmTbkZiz
+
+args = parser.parse_args()
+user = args.user
+pl_id = args.id
+
+analyze_playlist(user, pl_id).to_csv(f'../dummy_data/by_genre/{pl_id}.csv', sep=',', index=False)
+
+#analyze_playlist(user, pl_id).to_csv(f'../dummy_data/track_features/{user}.topTracks2010s.csv', sep=',', index=False)
 
 
-user = "spotify"
-pl_id = "37i9dQZF1DWYJ5kmTbkZiz" # note: access original playlist info using pl_id: https://open.spotify.com/playlist/37i9dQZF1DWYJ5kmTbkZiz
-analyze_playlist(user, pl_id).to_csv(f'../dummy_data/track_features/{user}.topTracks2010s.csv', sep=',', index=False)
-
-
-analyze_playlist("12160726861", "6yPiKpy7evrwvZodByKvM9").to_csv(f'../dummy_data/track_features/oscar.longestPlaylistEver.csv', sep=',', index=False)
+#analyze_playlist("12160726861", "6yPiKpy7evrwvZodByKvM9").to_csv(f'../dummy_data/track_features/oscar.longestPlaylistEver.csv', sep=',', index=False)

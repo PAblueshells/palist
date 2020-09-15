@@ -1,0 +1,36 @@
+artist,album,track_name,track_id,artist_genre,album_genre,danceability,energy,key,loudness,mode,speechiness,instrumentalness,liveness,valence,tempo,duration_ms,time_signature
+Majorstua Kammerkor & Tore Erik Mohn,Ola Gjeilo: Sunrise Mass,The Spheres,5ZN83XB8ckwdZ1drZXz3iO,,,0.077,0.045,0,-26.106,0,0.0465,0.97,0.11,0.0274,81.504,332083,4
+Majorstua Kammerkor & Tore Erik Mohn,Ola Gjeilo: Sunrise Mass,Sunrise,4hm9JoGYVs0ZGgrINI8MaT,,,0.174,0.119,2,-21.97,1,0.0462,0.551,0.103,0.0363,127.761,623333,4
+Majorstua Kammerkor & Tore Erik Mohn,Ola Gjeilo: Sunrise Mass,The City,1pLfh4ZgPN6xNAM4NQ9zET,,,0.126,0.159,3,-20.251,1,0.0378,0.291,0.185,0.0403,88.031,640417,4
+Majorstua Kammerkor & Tore Erik Mohn,Ola Gjeilo: Sunrise Mass,Identity & The Ground,31y00VdSLLTa6DWQaev3TL,,,0.101,0.0331,8,-26.737,1,0.0432,0.504,0.201,0.0296,89.292,373333,4
+The Wartburg Choir,Unclouded Day,Unclouded Day,4NdVx2DUgnZR83uu4MgZvP,,,0.32,0.197,7,-17.926,1,0.0334,0.912,0.0854,0.277,112.3,156480,4
+The Wartburg Choir,Unclouded Day,Angel Band,0kjJWObmU0gB7BeB0X6oEb,,,0.205,0.11,7,-19.618,1,0.0383,0.932,0.0868,0.111,124.63,353187,4
+Santa Fe Desert Chorale,The Road Home,Hallelujah (Arr. Shawn Kirchner),6qzQlFv8YV1MoomNxGmhJJ,,,0.184,0.118,9,-22.992,1,0.052,0.244,0.0803,0.193,169.959,207013,4
+Nordic Chamber Choir - Nicol Matt,O Magnum Mysterium,O Magnum Mysterium,31zjVEWfYxkeuuSnUHyUz3,,,0.145,0.011,2,-27.626,1,0.0478,0.399,0.0866,0.0334,139.56,415773,3
+The Master Chorale of Tampa Bay,Light of the Midnight Sun,Flight Song,70KKDTSulUNPN7mf28hBxr,american choir,,0.101,0.0869,1,-24.414,1,0.038,0.818,0.131,0.179,66.409,228280,3
+Phoenix Chamber Choir,Why The Caged Bird Sings,Let my Love be Heard,1VjFCgKZOS6O2gQsNQULMS,"canadian choir,chamber choir",,0.0758,0.0452,4,-24.567,1,0.0441,0.592,0.159,0.031,79.77,313960,3
+The Master Chorale of Tampa Bay,Light of the Midnight Sun,Even When He Is Silent,73XZVLv45lOzUjNSqP7drV,american choir,,0.0675,0.0621,0,-27.822,1,0.0476,0.019,0.0911,0.0344,63.573,273107,4
+Chanticleer,Our Heart's Joy: A Chanticleer Christmas,Ave Maria (Franz Biebl),0fdL0xzOhy5FniixwlMaDh,"american choir,choral,early music choir,monastic,polyphony",,0.0611,0.0403,1,-27.057,1,0.0445,0.83,0.0944,0.039,64.509,452333,4
+Chanticleer,I Have Had Singing: A Chanticleer Portrait,Shenandoah,07Vzp7N2MCTu19SMZbcGvh,"american choir,choral,early music choir,monastic,polyphony",,0.162,0.022,4,-32.731,1,0.0416,0.000134,0.14,0.037,81.515,276773,3
+Chanticleer,Chanticleer Takes You Out of This World!,Cells Planets (arr. V. Peterson),4YkGZf2zMi8gt6iZ8oDzCp,,,0.146,0.0495,4,-18.257,1,0.0411,4.96e-05,0.147,0.072,74.087,348560,4
+Voces8,Winter,Es ist ein Ros entsprungen,4nOyPDxuz3UYWRgAo5eon8,"classical,early music,german renaissance,renaissance",,0.171,0.0101,5,-34.161,1,0.0437,0.962,0.101,0.037,126.071,227040,4
+Cecilia Bartoli,Cecilia Bartoli - Arie Antiche: Se tu m'ami,Amarilli mia bella,6GxgK8LQhfWRkF49b5o6Et,"classical,early music",,0.287,0.0254,7,-26.365,0,0.0461,0.00198,0.0985,0.0526,72.441,188000,4
+Cecilia Bartoli,Cecilia Bartoli - Arie Antiche: Se tu m'ami,Sebben crudele mi fai languir',0vMNHtHkWMCZFyXVvgFrPz,"baroque,italian baroque,italian opera",,0.293,0.0318,0,-24.292,1,0.0428,0.00198,0.0718,0.106,97.237,180173,3
+Craig Hella Johnson,Johnson: Considering Matthew Shepard,"Considering Matthew Shepard: Epilogue, 32. All of Us",55dyNpMjjPrYNgFc13kUqQ,,,0.304,0.28,5,-15.51,1,0.0401,0.0729,0.0949,0.21,124.5,366067,4
+Craig Hella Johnson,Johnson: Considering Matthew Shepard,"Considering Matthew Shepard: Epilogue, 30. Meet Me Here",0YQUBIZo0u5icjxqsP1fUM,,,0.226,0.05,0,-16.8,1,0.0486,6.37e-05,0.0577,0.143,80.513,263560,4
+Craig Hella Johnson,Johnson: Considering Matthew Shepard,"Considering Matthew Shepard: Passion, 17. The Innocence",2Ptz28muBl8EBLQCnK4EOj,,,0.248,0.0427,5,-21.911,1,0.0378,2.04e-05,0.0805,0.17,139.984,197160,4
+Ola Gjeilo,Gjeilo: Northern Lights,"The Ground, ""Pleni sunt caeli et terra gloria tua",0FyfkPedOZsi0O0dy9y397,"21st century classical,choral,nordic contemporary classical",,0.103,0.0735,3,-23.18,1,0.0338,0.942,0.124,0.063,79.726,222507,3
+Eric Whitacre,i carry your heart,i carry your heart,07EdLKSOX5Qwf48oc4RrzK,"21st century classical,american 21st century classical,choral,contemporary choir",,0.15,0.0969,7,-20.803,1,0.0425,0.31,0.127,0.0361,81.014,272027,4
+The King's Singers,Gold,And So It Goes (Arr. Bob Chilcott),0vbku2VnIsrhFIfyUvekaK,"a cappella,british choir,cambridge choir,choral,polyphony,vocal ensemble",,0.162,0.0479,0,-24.195,1,0.0394,0.000178,0.0951,0.126,81.717,225613,1
+Jake Runestad,The Hope of Loving,Why the Caged Bird Sings,5RfF3KfZ7qPzlmayQeTdQX,,,0.118,0.0161,10,-26.431,1,0.0384,0.0541,0.0711,0.0392,83.862,546400,3
+Atlanta Master Chorale,Crossroads,There Will Come Soft Rains,7wbfumClDSecgtE8U3fasS,american choir,,0.0781,0.0604,7,-28.381,1,0.0486,0.0041,0.066,0.0343,74.368,345133,4
+Eric Whitacre,Light & Gold,Lux Aurumque,5bUdtdODnRPeQpmMoqhvVY,"21st century classical,american 21st century classical,choral,contemporary choir",,0.0783,0.0262,1,-28.431,0,0.0489,0.964,0.11,0.0241,71.984,255773,3
+Libera,Beyond,Do Not Stand At My Grave And Weep,5PLJ8HAyhIvUpCQ4LfNprm,,,0.296,0.0776,6,-17.556,0,0.0409,0.000187,0.109,0.0972,87.091,160760,4
+Voces8,Enchanted Isle,May it be (Arr. M. Sheeran),0fPcXu5xrmkDxmcxB6z6lV,"canadian classical,canadian soundtrack,middle earth,scorecore,soundtrack,video game music",,0.204,0.167,3,-17.264,1,0.0389,0.779,0.107,0.0812,135.288,225373,3
+Kammerkoor Head Ööd Vend,Õhtul,Õhtul,0lvDVkvqrmEAxNd1572ijE,baltic choir,,0.143,0.00833,3,-26.506,1,0.0408,0.836,0.117,0.0358,140.512,221205,4
+Various Artists,The Music Of Living: The Choral Music Of Dan Forrest 2010-2011,Entreat Me Not To Leave You,4aG6uReXSuarutwzWsei3X,american choir,,0.111,0.176,10,-17.581,0,0.0435,0.717,0.0936,0.0373,78.999,408987,4
+Voces8,Lux,Stars,5ut7RavktHdSciT8HhaeDm,baltic classical,,0.13,0.0607,2,-23.65,1,0.0509,0.963,0.141,0.0377,63.851,244387,4
+Kammerkoor Head Ööd Vend,Siis Vaikivad Kõik Mõtted,Muusika,5BWuCzj2VMeap5C9JWaw3V,baltic choir,,0.221,0.0241,5,-30.67,1,0.0399,0.00479,0.0854,0.0367,82.562,157320,1
+Tenebrae,Allegri Miserere,Miserere,2ED1VZ53iRImo252U2PEsu,"classical,early music,italian renaissance",,0.15,0.037,7,-26.859,0,0.046,0.00266,0.123,0.0356,73.132,719133,4
+Seraphic Fire,Reincarnations: A Century of American Choral Music,"Good Night, Dear Heart",5t3gdEk2Bhq5nX5PV8ZOUs,,,0.177,0.0616,11,-27.838,1,0.0376,0.264,0.11,0.0341,125.583,239167,5
+The King's Singers,Folk Songs Of The British Isles,Loch Lomond,0OHTE11AbX3oeT623REE0L,"a cappella,british choir,cambridge choir,choral,polyphony,vocal ensemble",,0.266,0.0248,10,-24.497,1,0.0467,6.04e-05,0.0978,0.0617,132.519,183693,4
